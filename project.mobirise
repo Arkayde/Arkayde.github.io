@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CleaningSite",
-    "currentPage": "contact.html",
+    "currentPage": "pricing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -642,7 +642,7 @@
             "showName": true,
             "showBio": false
           },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "title": "WHAT OUR FANTASTIC CUSTOMERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
