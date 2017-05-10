@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "home",
-        "meta_descr": "",
+        "title": "Cleaning Rescue Team",
+        "meta_descr": "The Cleaning Rescue Team Homepage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -244,8 +244,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "about",
-        "meta_descr": "Site Builder Description"
+        "title": "Cleaning Rescue Team",
+        "meta_descr": "The Cleaning Rescue Team About page."
       },
       "components": [
         {
@@ -475,8 +475,8 @@
     },
     "pricing.html": {
       "settings": {
-        "title": "pricing",
-        "meta_descr": "Site Creator Description"
+        "title": "Cleaning Rescue Team",
+        "meta_descr": "The Cleaning Rescue Team Pricing Page"
       },
       "components": [
         {
@@ -798,8 +798,8 @@
     },
     "contact.html": {
       "settings": {
-        "title": "contact",
-        "meta_descr": "Site Creator Description"
+        "title": "Cleaning Rescue Team",
+        "meta_descr": "The Cleaning Rescue Team Contact Page"
       },
       "components": [
         {
