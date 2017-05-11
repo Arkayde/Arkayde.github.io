@@ -709,11 +709,11 @@ h6,
   color: #f90999;
 }
 #ext_menu-f .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #ext_menu-f .dropdown-item,
 #ext_menu-f .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #ext_menu-f .link:hover,
 #ext_menu-f .dropdown-item:hover,
