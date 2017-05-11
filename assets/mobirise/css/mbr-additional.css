@@ -433,11 +433,11 @@ h6,
   color: #f90999;
 }
 #ext_menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -476,11 +476,16 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #f28281!important;
 }
+#msg-box5-1 P {
+  font-size: 24px;
+}
 #contacts2-2 STRONG {
   color: #000000;
+  font-size: 18px;
 }
 #contacts2-2 P {
   color: #000000;
+  font-size: 24px;
 }
 #contacts2-2 UL {
   color: #000000;
@@ -492,6 +497,16 @@ h6,
 }
 #header2-9 .mbr-section-text {
   color: #000000;
+  font-size: 24px;
+}
+#content6-8 P {
+  font-size: 24px;
+}
+#content6-8 H3 {
+  font-size: 24px;
+}
+#content6-8 UL {
+  font-size: 24px;
 }
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -513,11 +528,11 @@ h6,
   color: #f90999;
 }
 #ext_menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #ext_menu-4 .dropdown-item,
 #ext_menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #ext_menu-4 .link:hover,
 #ext_menu-4 .dropdown-item:hover,
@@ -558,9 +573,11 @@ h6,
 }
 #contacts2-5 STRONG {
   color: #000000;
+  font-size: 18px;
 }
 #contacts2-5 P {
   color: #000000;
+  font-size: 24px;
 }
 #contacts2-5 UL {
   color: #000000;
@@ -613,11 +630,11 @@ h6,
   color: #f90999;
 }
 #ext_menu-a .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #ext_menu-a .dropdown-item,
 #ext_menu-a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #ext_menu-a .link:hover,
 #ext_menu-a .dropdown-item:hover,
@@ -658,9 +675,11 @@ h6,
 }
 #contacts2-b STRONG {
   color: #000000;
+  font-size: 18px;
 }
 #contacts2-b P {
   color: #000000;
+  font-size: 24px;
 }
 #contacts2-b UL {
   color: #000000;
@@ -735,9 +754,11 @@ h6,
 }
 #contacts2-g STRONG {
   color: #000000;
+  font-size: 18px;
 }
 #contacts2-g P {
   color: #000000;
+  font-size: 24px;
 }
 #contacts2-g UL {
   color: #000000;

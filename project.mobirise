@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CleaningSite",
-    "currentPage": "pricing.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,8 @@
     "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -63,10 +64,10 @@
               "color": "#f90999"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -98,7 +99,7 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": 0.75,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#f90999",
             "fontHoverColor": "@primaryColor",
@@ -179,7 +180,12 @@
           },
           "title": "Cleaning Solutions For All Of Your Needs",
           "text": "Come home to a clean living space when you choose Cleaning Rescue Team to provide your family with a flexible cleaning solution that fits your needs..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -188,10 +194,12 @@
           "_name": "contacts2",
           "_styles": {
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "24px"
             },
             "UL": {
               "color": "#000000",
@@ -218,7 +226,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
         },
         {
           "_tags": [
@@ -253,6 +261,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "header2-9",
           "_params": {
             "imageSize": 50,
@@ -298,15 +315,7 @@
           },
           "title": "About Us",
           "text": "In today’s world, there’s just not enough time to work, cook dinner, shuttle the kids to and from their after school activities, AND CLEAN. Lucky for you, we’re the Cleaning Rescue Team!<br><br>Let us help you with your day to day tasks, providing you with a clean living space to come home to. Our affordable, eco-friendly services, will be sure to leave you and your family happy and satisfied.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -320,7 +329,18 @@
             "bgColor": "#fff"
           },
           "text1": "<h3>List of Services:</h3><ul><li>Full House Cleaning</li><li>Partial House Cleaning</li><li>Move Out Cleaning</li><li>Office Cleaning</li><li>After Party Clean Up</li></ul><h2></h2>",
-          "text2": "<p>We will provide flexible, and affordable cleaning services, tailored to fit your families needs. Whether you simply need a one time cleaning, or reoccuring visits, we'll be happy to make your home spick and span.</p><p><br></p><p>As stated on our list of servics, we also provide office cleanings, move out cleanings, and after party clean up services. Let our versatile cleaning teams put your mind at ease. We'll take care of the dirt and grime so that you don't have to.</p>"
+          "text2": "<p>We will provide flexible, and affordable cleaning services, tailored to fit your families needs. Whether you simply need a one time cleaning, or reoccuring visits, we'll be happy to make your home spick and span.</p><p><br></p><p>As stated on our list of servics, we also provide office cleanings, move out cleanings, and after party clean up services. Let our versatile cleaning teams put your mind at ease. We'll take care of the dirt and grime so that you don't have to.</p>",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "24px"
+            },
+            "UL": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -347,10 +367,10 @@
               "color": "#f90999"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -382,7 +402,7 @@
           "_anchor": "ext_menu-4",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": 0.75,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#f90999",
             "fontHoverColor": "@primaryColor",
@@ -419,10 +439,12 @@
           "_name": "contacts2",
           "_styles": {
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "24px"
             },
             "UL": {
               "color": "#000000",
@@ -449,7 +471,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
         },
         {
           "_tags": [
@@ -627,6 +649,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
@@ -636,11 +662,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC CUSTOMERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -670,10 +692,10 @@
               "color": "#f90999"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -705,7 +727,7 @@
           "_anchor": "ext_menu-a",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": 0.75,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#f90999",
             "fontHoverColor": "@primaryColor",
@@ -742,10 +764,12 @@
           "_name": "contacts2",
           "_styles": {
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "24px"
             },
             "UL": {
               "color": "#000000",
@@ -772,7 +796,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
         },
         {
           "_tags": [
@@ -807,6 +831,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-i",
           "_params": {
             "labelsColor": "#232323",
@@ -852,12 +881,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",
@@ -956,10 +980,12 @@
           "_name": "contacts2",
           "_styles": {
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "24px"
             },
             "UL": {
               "color": "#000000",
@@ -986,7 +1012,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
         },
         {
           "_tags": [
