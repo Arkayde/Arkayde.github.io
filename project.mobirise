@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CleaningSite",
-    "currentPage": "contact.html",
+    "currentPage": "pricing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -226,7 +226,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
         },
         {
           "_tags": [
@@ -471,7 +471,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
         },
         {
           "_tags": [
@@ -796,7 +796,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
         },
         {
           "_tags": [
@@ -1012,7 +1012,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Silver Spring, MD<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cleaningrescueteam.com<br>\nPhone: 301-717-6140<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\"><b>The Party Rescue Team</b></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.thepartyrescueteam.com/\" class=\"text-black\">The Party Rescue Team</a></li></ul>"
         },
         {
           "_tags": [
