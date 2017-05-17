@@ -769,6 +769,28 @@ h6,
   text-align: left;
 }
 
+#header2-q .mbr-section-title {
+  color: #000000;
+}
+#header2-q .mbr-section-text {
+  color: #000000;
+  font-size: 24px;
+}
+#features1-s .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #cccccc;
+}
+#features1-s .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features1-s .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-s .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #979797;
+}
+#form1-u .form-control-label {
+  color: #232323;
+}
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
