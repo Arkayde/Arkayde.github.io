@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CleaningSite",
-    "currentPage": "index.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1052,6 +1052,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "header2-q",
           "_params": {
             "imageSize": 50,
@@ -1097,22 +1106,27 @@
           },
           "title": "We're Hiring!",
           "text": "Cleaning Rescue Team is in search of dedicated staff, who will go above and beyond, to deliver eximplerary services to our valued customers. If &nbsp;you're not afraid of dirt, grime, and hard work, then submit your inquiry below.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "24px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#cccccc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#979797"
+            }
+          },
           "_anchor": "features1-s",
           "_params": {
             "columnsColor": "#cccccc",
@@ -1151,7 +1165,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "We expect our cleaning staff to be dedicated and reliable.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1224,27 +1238,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#cccccc"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#979797"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-u",
           "_params": {
             "labelsColor": "#232323",
@@ -1290,12 +1295,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
         },
         {
           "_inherit": "menu",
