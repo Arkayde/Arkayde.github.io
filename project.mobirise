@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CleaningSite",
-    "currentPage": "careers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -247,7 +247,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cleaning Rescue Team. BlaqCode Solutions"
+          "text": "Terms - Privacy &nbsp; &nbsp;Copyright (c) 2017 Cleaning Rescue Team. BlaqCode Solutions"
         }
       ]
     },
@@ -1446,7 +1446,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cleaning Rescue Team. BlaqCode Solutions"
+          "text": "Terms - Privacy &nbsp; &nbsp;Copyright (c) 2017 Cleaning Rescue Team. BlaqCode Solutions"
         }
       ]
     }
